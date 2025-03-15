@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\uploads\\faille2.html",
+      "PackagePath": "staticwebassets\\uploads\\faille2.html"
+    },
+    {
+      "Id": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\uploads\\faillehtml.html",
+      "PackagePath": "staticwebassets\\uploads\\faillehtml.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.VulnerableWebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.VulnerableWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.VulnerableWebApp.props",
+      "PackagePath": "build\\VulnerableWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.VulnerableWebApp.props",
+      "PackagePath": "buildMultiTargeting\\VulnerableWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.VulnerableWebApp.props",
+      "PackagePath": "buildTransitive\\VulnerableWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

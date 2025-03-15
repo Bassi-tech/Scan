@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/VulnerableWebApp/uploads/faille2.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\faille2.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"48"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 16:51:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/VulnerableWebApp/uploads/faille2.jh66y92jsv.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\faille2.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jh66y92jsv"},{"Name":"integrity","Value":"sha256-qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ="},{"Name":"label","Value":"_content/VulnerableWebApp/uploads/faille2.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"48"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 16:51:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/VulnerableWebApp/uploads/faillehtml.1cknswhm9m.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\faillehtml.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1cknswhm9m"},{"Name":"integrity","Value":"sha256-sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU="},{"Name":"label","Value":"_content/VulnerableWebApp/uploads/faillehtml.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 16:26:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/VulnerableWebApp/uploads/faillehtml.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\faillehtml.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"80"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 16:26:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

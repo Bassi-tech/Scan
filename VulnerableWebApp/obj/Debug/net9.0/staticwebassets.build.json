@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "ZWsOnWtiWyi+7a5gVmu9g3hKQ6s4wseTINlEl1IHkQg=",
+  "Source": "VulnerableWebApp",
+  "BasePath": "_content/VulnerableWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VulnerableWebApp\\wwwroot",
+      "Source": "VulnerableWebApp",
+      "ContentRoot": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\",
+      "BasePath": "_content/VulnerableWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\obj\\Debug\\net9.0\\compressed\\318uivgucd-1cknswhm9m.gz",
+      "SourceId": "VulnerableWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/VulnerableWebApp",
+      "RelativePath": "uploads/faillehtml#[.{fingerprint=1cknswhm9m}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\uploads\\faillehtml.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zuigo8oj2x",
+      "Integrity": "ezvGDk7GJT4fS481ekRVZb6ImI3cGoqKBoQVLwxlXxk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\uploads\\faillehtml.html"
+    },
+    {
+      "Identity": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\obj\\Debug\\net9.0\\compressed\\porhfgx8z1-jh66y92jsv.gz",
+      "SourceId": "VulnerableWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/VulnerableWebApp",
+      "RelativePath": "uploads/faille2#[.{fingerprint=jh66y92jsv}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\uploads\\faille2.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ypuielcg7g",
+      "Integrity": "+pHc510w4AHbBZsU8AkZjzWfsotxh8oGo8xU1kIivlE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\uploads\\faille2.html"
+    },
+    {
+      "Identity": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\uploads\\faille2.html",
+      "SourceId": "VulnerableWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\",
+      "BasePath": "_content/VulnerableWebApp",
+      "RelativePath": "uploads/faille2#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jh66y92jsv",
+      "Integrity": "qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\faille2.html"
+    },
+    {
+      "Identity": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\uploads\\faillehtml.html",
+      "SourceId": "VulnerableWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\",
+      "BasePath": "_content/VulnerableWebApp",
+      "RelativePath": "uploads/faillehtml#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1cknswhm9m",
+      "Integrity": "sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\faillehtml.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/faille2.html",
+      "AssetFile": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\obj\\Debug\\net9.0\\compressed\\porhfgx8z1-jh66y92jsv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.016129032258"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+pHc510w4AHbBZsU8AkZjzWfsotxh8oGo8xU1kIivlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faille2.html",
+      "AssetFile": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\uploads\\faille2.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faille2.html.gz",
+      "AssetFile": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\obj\\Debug\\net9.0\\compressed\\porhfgx8z1-jh66y92jsv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+pHc510w4AHbBZsU8AkZjzWfsotxh8oGo8xU1kIivlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+pHc510w4AHbBZsU8AkZjzWfsotxh8oGo8xU1kIivlE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faille2.jh66y92jsv.html",
+      "AssetFile": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\obj\\Debug\\net9.0\\compressed\\porhfgx8z1-jh66y92jsv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.016129032258"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+pHc510w4AHbBZsU8AkZjzWfsotxh8oGo8xU1kIivlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jh66y92jsv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/faille2.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faille2.jh66y92jsv.html",
+      "AssetFile": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\uploads\\faille2.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jh66y92jsv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/faille2.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faille2.jh66y92jsv.html.gz",
+      "AssetFile": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\obj\\Debug\\net9.0\\compressed\\porhfgx8z1-jh66y92jsv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+pHc510w4AHbBZsU8AkZjzWfsotxh8oGo8xU1kIivlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:51:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jh66y92jsv"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/faille2.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+pHc510w4AHbBZsU8AkZjzWfsotxh8oGo8xU1kIivlE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faillehtml.1cknswhm9m.html",
+      "AssetFile": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\obj\\Debug\\net9.0\\compressed\\318uivgucd-1cknswhm9m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.011111111111"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ezvGDk7GJT4fS481ekRVZb6ImI3cGoqKBoQVLwxlXxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:26:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1cknswhm9m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/faillehtml.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faillehtml.1cknswhm9m.html",
+      "AssetFile": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\uploads\\faillehtml.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:26:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1cknswhm9m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/faillehtml.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faillehtml.1cknswhm9m.html.gz",
+      "AssetFile": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\obj\\Debug\\net9.0\\compressed\\318uivgucd-1cknswhm9m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ezvGDk7GJT4fS481ekRVZb6ImI3cGoqKBoQVLwxlXxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:26:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1cknswhm9m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/faillehtml.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ezvGDk7GJT4fS481ekRVZb6ImI3cGoqKBoQVLwxlXxk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faillehtml.html",
+      "AssetFile": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\obj\\Debug\\net9.0\\compressed\\318uivgucd-1cknswhm9m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.011111111111"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ezvGDk7GJT4fS481ekRVZb6ImI3cGoqKBoQVLwxlXxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:26:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faillehtml.html",
+      "AssetFile": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\wwwroot\\uploads\\faillehtml.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:26:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faillehtml.html.gz",
+      "AssetFile": "C:\\Users\\hbass\\OneDrive\\Bureau\\ProjetDotNet\\VulnerableWebApp\\obj\\Debug\\net9.0\\compressed\\318uivgucd-1cknswhm9m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ezvGDk7GJT4fS481ekRVZb6ImI3cGoqKBoQVLwxlXxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:26:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ezvGDk7GJT4fS481ekRVZb6ImI3cGoqKBoQVLwxlXxk="
+        }
+      ]
+    }
+  ]
+}

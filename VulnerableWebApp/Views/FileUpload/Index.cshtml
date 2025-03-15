@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Téléversement de Fichier Vulnérable";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center">@ViewData["Title"]</h2>
+
+    @if(ViewBag.Message != null)
+    {
+        <div class="alert alert-info text-center">
+            @ViewBag.Message
+        </div>
+    }
+
+    <div class="card shadow-sm">
+        <div class="card-body">
+            <form asp-action="Index" method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="file" class="form-label">Choisissez un fichier :</label>
+                    <input type="file" name="file" id="file" class="form-control" />
+                </div>
+                <div class="d-grid gap-2">
+                    <button type="submit" class="btn btn-primary">Téléverser</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Bouton de déconnexion sur la page d'upload -->
+    <div class="mt-4 text-center">
+        <a class="btn btn-danger" href="@Url.Action("Logout", "User")">
+            Déconnexion
+        </a>
+    </div>
+</div>

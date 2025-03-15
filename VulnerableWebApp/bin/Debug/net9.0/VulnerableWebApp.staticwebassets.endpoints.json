@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "uploads/faille2.html",
+      "AssetFile": "uploads/faille2.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.016129032258"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+pHc510w4AHbBZsU8AkZjzWfsotxh8oGo8xU1kIivlE=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:51:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faille2.html",
+      "AssetFile": "uploads/faille2.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:51:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faille2.html.gz",
+      "AssetFile": "uploads/faille2.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+pHc510w4AHbBZsU8AkZjzWfsotxh8oGo8xU1kIivlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:51:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+pHc510w4AHbBZsU8AkZjzWfsotxh8oGo8xU1kIivlE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faille2.jh66y92jsv.html",
+      "AssetFile": "uploads/faille2.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.016129032258"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+pHc510w4AHbBZsU8AkZjzWfsotxh8oGo8xU1kIivlE=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:51:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jh66y92jsv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/faille2.html"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faille2.jh66y92jsv.html",
+      "AssetFile": "uploads/faille2.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:51:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jh66y92jsv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qZMvYnBryT/cAA7tfakwAiCFBkYdxPoMx1o83BF7yvQ="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/faille2.html"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faille2.jh66y92jsv.html.gz",
+      "AssetFile": "uploads/faille2.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+pHc510w4AHbBZsU8AkZjzWfsotxh8oGo8xU1kIivlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:51:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jh66y92jsv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+pHc510w4AHbBZsU8AkZjzWfsotxh8oGo8xU1kIivlE="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/faille2.html.gz"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faillehtml.1cknswhm9m.html",
+      "AssetFile": "uploads/faillehtml.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.011111111111"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ezvGDk7GJT4fS481ekRVZb6ImI3cGoqKBoQVLwxlXxk=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:26:19 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1cknswhm9m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/faillehtml.html"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faillehtml.1cknswhm9m.html",
+      "AssetFile": "uploads/faillehtml.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:26:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1cknswhm9m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/faillehtml.html"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faillehtml.1cknswhm9m.html.gz",
+      "AssetFile": "uploads/faillehtml.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ezvGDk7GJT4fS481ekRVZb6ImI3cGoqKBoQVLwxlXxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:26:19 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1cknswhm9m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ezvGDk7GJT4fS481ekRVZb6ImI3cGoqKBoQVLwxlXxk="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/faillehtml.html.gz"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faillehtml.html",
+      "AssetFile": "uploads/faillehtml.html.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.011111111111"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ezvGDk7GJT4fS481ekRVZb6ImI3cGoqKBoQVLwxlXxk=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:26:19 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faillehtml.html",
+      "AssetFile": "uploads/faillehtml.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:26:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sXJ9nYotmU4EQ/gOBbyLedZCnORVvh8L0M1TC8/OzLU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/faillehtml.html.gz",
+      "AssetFile": "uploads/faillehtml.html.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ezvGDk7GJT4fS481ekRVZb6ImI3cGoqKBoQVLwxlXxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 16:26:19 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ezvGDk7GJT4fS481ekRVZb6ImI3cGoqKBoQVLwxlXxk="
+        }
+      ]
+    }
+  ]
+}

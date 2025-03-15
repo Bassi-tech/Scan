@@ -1,0 +1,37 @@
+@model List<VulnerableWebApp.Comment>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Commentaires";
+}
+
+<h2>Commentaires</h2>
+
+<!-- Formulaire pour ajouter un commentaire -->
+<form asp-action="CommentPost" method="post" class="mb-4">
+    <div class="mb-3">
+        <label for="content" class="form-label">Ajouter un commentaire</label>
+        <input type="text" class="form-control" id="content" name="content" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Envoyer</button>
+</form>
+
+<!-- Liste des commentaires -->
+@if(Model != null && Model.Any())
+{
+    <ul class="list-group">
+        @foreach (var c in Model)
+        {
+            <li class="list-group-item">@Html.Raw(c.Content)</li>
+        }
+    </ul>
+}
+else
+{
+    <p class="text-muted">Aucun commentaire pour le moment.</p>
+}
+
+<!-- Bouton de déconnexion -->
+<div class="mt-4">
+    <a href="/" class="btn btn-danger">Déconnexion</a>
+</div>
+

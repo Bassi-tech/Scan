@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = "Tableau de bord";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container text-center mt-5">
+    <h1>Bienvenue sur votre tableau de bord</h1>
+    <p class="lead">Veuillez choisir l'une des options suivantes :</p>
+
+    <div class="mt-4">
+        <a class="btn btn-primary btn-lg mx-2" href="@Url.Action("Comment", "User")">
+            Accéder aux Commentaires
+        </a>
+        <a class="btn btn-secondary btn-lg mx-2" href="@Url.Action("Index", "FileUpload")">
+            Accéder à la Page de Téléversement
+        </a>
+    </div>
+    
+    <!-- Bouton de déconnexion -->
+    <div class="mt-4">
+        <a class="btn btn-danger" href="@Url.Action("Logout", "User")">
+            Déconnexion
+        </a>
+    </div>
+</div>
